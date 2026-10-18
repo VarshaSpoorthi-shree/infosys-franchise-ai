@@ -117,11 +117,8 @@ Milestone1/
 
 ![Password Reset OTP Email](screenshots/otp_email.png)
 
-### 6. User Dashboard
 
-![SecureAuth User Dashboard](screenshots/user_dashboard.png)
-
-### 7. Admin Dashboard
+### 6. Admin Dashboard
 
 ![SecureAuth Admin Dashboard](screenshots/admin_dashboard.png)
 
